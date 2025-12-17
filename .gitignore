@@ -1,0 +1,5 @@
+*.o
+maintenance_optimizer
+optimization_results.txt
+.DS_Store
+__MACOSX/
